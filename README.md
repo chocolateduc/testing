@@ -1,2 +1,2 @@
 # testing 1..2..3
-test
+echo "This is a test"
